@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Login"
+        android:title="Login"
+        android:visible="true"
+        />
+
+    <item android:id="@+id/Logout"
+        android:title="Logout"
+        android:visible="false"
+        />
+
+    <item android:id="@+id/Bookmarks"
+        android:title="Bookmarks"
+        android:visible="false"
+        />
+
+    <item android:id="@+id/add_bookmark"
+        android:title="Add to Bookmark"
+        android:visible="false"
+        />
+
+</menu>

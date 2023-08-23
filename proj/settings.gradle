@@ -1,0 +1,2 @@
+rootProject.name='MAP_browser'
+include ':app'
